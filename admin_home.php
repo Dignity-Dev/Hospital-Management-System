@@ -19,7 +19,7 @@
 
 ?>
 <div class="container">
- 	<h1 align=center>Admin Login for Opabode Memorial Hospital</h1>
+ 	<h1 align=center>Admin Login for Oyo State Hospital General</h1>
   
   <?php 
     if(isset($_POST['demail'])){

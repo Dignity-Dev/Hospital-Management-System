@@ -9,7 +9,7 @@ session_start();
   noAccessIfLoggedIn();
 ?>
 <div class="container">
- 	<h1>Welcome to Opabode Memorial Hospital's Official Website</h1>
+ 	<h1>Welcome to Oyo State Hospital General's Official Website</h1>
     <p class="block-quote">Our aim has always been to bring world–class medical care within the reach of common man.</p>
     <p><?php include('slideshow.php');?></p>
   <?php 
