@@ -14,7 +14,7 @@
   include("nav-bar.php");
 ?>
 <div class="container">
- 	<h1 align=center>Staff Login for Oyo State Hospital General</h1>
+ 	<h1 align=center>Staff Login for Oyo State General Hospital</h1>
 
     <?php
       if (isset($_POST['email'])){
