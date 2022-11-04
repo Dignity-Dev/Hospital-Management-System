@@ -9,7 +9,7 @@ include("library.php");
 noAccessIfLoggedIn();
 ?>
 <div class="container">
-  <h1>Welcome to Oyo State General Hospital Official Website</h1>
+  <h1>Welcome to Oyo State General Hospital  Official Website</h1>
   <p class="block-quote">Our aim has always been to bring world–class medical care within the reach of common man.</p>
   <p><?php include('slideshow.php'); ?></p>
   <?php
@@ -32,7 +32,7 @@ noAccessIfLoggedIn();
   <div class="row">
     <div class="text-center">
       <a href="login.php" class="btn btn-lg btn-primary">Click here to Login</a><br><br>
-      <a href="register.php" class="btn btn-lg btn-primary">Click here to Register</a>
+      <a href="register.php" class="btn btn-lg btn-info">Click here to Register</a>
     </div>
   </div>
 </div>
