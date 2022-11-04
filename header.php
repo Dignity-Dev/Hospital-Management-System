@@ -17,7 +17,7 @@
           <a class="navbar-brand">🌅 Oyo State General Hospital </a>
             <ul class="nav nav-pills">
               <li class="nav-item">
-                <a href="https://goo.gl/maps/PyT52gM87su" target="_blank"> Address: Oyo State General Hospital  , Owode Oyo Oyo, Oyo State.</a>
+                <a href="https://goo.gl/maps/PyT52gM87su" target="_blank"> Address: Oyo State General Hospital  , Owode Oyo, Oyo State.</a>
               </li>
               <li class="nav-item">
                 <a class="" href="tel:+917709473553">Ambulance Number: +2348176543456</a>
