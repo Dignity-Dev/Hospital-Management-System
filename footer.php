@@ -15,5 +15,6 @@
 		</p>
       </footer>
     </div>
+    <script src="bootstrap.js"></script>
   </body>
 </html>
