@@ -49,5 +49,7 @@ noAccessIfNotLoggedIn();
     <a href="doctor.php">Doctors Info</a>
     <a href="staff.php">Staff Info</a>
   </div>
-
+  <br>
+  <p><?php include('slideshow.php'); ?></p>
+  <p class="block-quote">Our aim has always been to bring world–class medical care within the reach of common man.</p>
   <?php include("footer.php"); ?>
