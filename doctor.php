@@ -5,7 +5,30 @@ if (!isset($_SESSION)) {
 ?>
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="jumbotron.css" rel="stylesheet">
+<style>
+    .sip {
+        text-align: center;
+        margin: 10px;
+    }
 
+    .sip a {
+        padding: 10px;
+        border: 2px solid green;
+        text-decoration: none;
+        color: white;
+        background-color: green;
+        text-align: center;
+    }
+
+    .sip a:hover {
+        padding: 10px;
+        border: 2px solid green;
+        text-decoration: none;
+        color: green;
+        background-color: white;
+        text-align: center;
+    }
+</style>
 <?php
 include("header.php");
 include("library.php");
